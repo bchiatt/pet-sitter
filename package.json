@@ -1,0 +1,13 @@
+{
+  "name": "pet-sitter",
+  "version": "0.0.0",
+  "description": "This is a pet sitting application. Virtual Pets!",
+  "main": "app/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bchiatt/pet-sitter.git"
+  },
+  "author": "Brian Hiatt <brian.hiatt41@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/bchiatt/pet-sitter"
+}
